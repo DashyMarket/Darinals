@@ -1,4 +1,4 @@
-# DARinals CLI Tool
+# Darinals CLI Tool
 
 A command-line tool for creating and managing Dash inscriptions (DARinals) on the Dash blockchain.
 
